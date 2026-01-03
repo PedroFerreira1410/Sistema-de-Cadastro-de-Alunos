@@ -27,8 +27,9 @@ gcc main.c -o alunos
 ```
 ## Estrutura do projeto
 ```md
-├── main.c
-└── README.md
+├── README.md
+├── alunos.exe
+└── main.c
 ```
 
 ## Observações técnicas
